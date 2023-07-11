@@ -1,0 +1,9 @@
+[submodule "Web_Scraping_Beautifulsoup"]
+	path = Web_Scraping_Beautifulsoup
+	url = https://github.com/gshreeram/py_web_scr_beautifulsoup
+[submodule "Web_Scraping_Selenium"]
+	path = Web_Scraping_Selenium
+	url = https://github.com/gshreeram/py_web_scr_selenium
+[submodule "Web_Scraping_Scrapy"]
+	path = Web_Scraping_Scrapy
+	url = https://github.com/gshreeram/py_web_scr_scrapy
