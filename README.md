@@ -9,8 +9,8 @@ The project scope includes the following:
 - [x] **Web Scraping**: Develop Python scripts to extract data from websites using libraries such as BeautifulSoup, Scrapy, or Selenium. The extracted data can include text, images, tables, or any other relevant information.
 
     1. [Web Scraping - Beautifulsoup](README-Web_Scraping_Beautifulsoup.md)
-    2. [Web Scraping - Selenium](README-Web_Scraping_Beautifulsoup.md)
-    3. [Web Scraping - Scra[y]](README-Web_Scraping_Scrapy.md)
+    2. [Web Scraping - Selenium](README-Web_Scraping_Selenium.md)
+    3. [Web Scraping - Scrapy](README-Web_Scraping_Scrapy.md)
 
 - [x] **Data Scraping**: Create scripts to scrape data from online databases, APIs, or other data sources. This may involve interacting with APIs, parsing JSON or XML responses, or accessing data through web services.
 
